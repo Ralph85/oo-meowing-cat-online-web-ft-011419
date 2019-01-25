@@ -1,4 +1,4 @@
 class Cat
   attr_accessor :name
-  @name = cats_name
+  cat.name = "Maru"
 end
