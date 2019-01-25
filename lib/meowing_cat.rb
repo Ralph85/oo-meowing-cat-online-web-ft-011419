@@ -1,7 +1,7 @@
-maru = Cat.new
-maru.name = "Maru"
-
-maru.name
-
-
-maru.meow
+class  = Struct.new(:attr_names) do
+  def method_name
+    
+  end
+  
+  
+end
